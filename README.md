@@ -112,13 +112,13 @@ Passionate about AI-powered applications, clean architecture, and problem solvin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasariyaswanthsribalachandra&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yaswanthsribalachandra&show_icons=true&theme=tokyonight" height="170"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasariyaswanthsribalachandra&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthsribalachandra&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dasariyaswanthsribalachandra&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yaswanthsribalachandra&theme=tokyonight"/>
 </p>
 
 ---
