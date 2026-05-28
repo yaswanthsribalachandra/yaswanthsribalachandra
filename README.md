@@ -30,7 +30,7 @@ Passionate about AI-powered applications, clean architecture, and problem solvin
   <b>dasariyaswanthsribalachandra@gmail.com</b>
 
 - 📄 Resume  
-  <a href="https://drive.google.com/file/d/1EpHx9poQ5DI1eD6s2hzdeacuEgGEdOON/view?usp=share_link" target="_blank">
+  <a href="https://drive.google.com/file/d/16TOkNnmotGmMviOdLgNX2xqF7SqXhs6C/view?usp=sharing" target="_blank">
     View Resume
   </a>
 
