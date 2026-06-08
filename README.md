@@ -22,7 +22,7 @@ Passionate about AI-powered applications, clean architecture, and problem solvin
 - 🌱 Currently improving system design, DevOps, and AI engineering skills  
 
 - 👨‍💻 My Portfolio  
-  <a href="https://superlative-kheer-159b04.netlify.app](https://ashy-field-012acb400.7.azurestaticapps.net" target="_blank">
+  <a href="https://ashy-field-012acb400.7.azurestaticapps.net" target="_blank">
     Portfolio Website
   </a>
 
