@@ -63,7 +63,7 @@ containerized with Docker and deployed on Azure with CI/CD.
 ## 🚀 Featured Projects
 
 ### 🔗 NexSpace — Microservices SaaS Platform (URL Shortener + Notes) on Azure
-[Live Demo](https://ashy-field-012acb400.7.azurestaticapps.net) · [Repo](REPLACE_WITH_REPO_URL)
+[Live Demo](https://ashy-field-012acb400.7.azurestaticapps.net) · [Repo](https://github.com/yaswanthsribalachandra/nexspace_backend)
 
 A secure, multi-service SaaS app built to practice production-grade backend patterns:
 JWT + OTP auth, TLS-encrypted data layer, and containerized deployment on Azure.
@@ -78,7 +78,7 @@ JWT + OTP auth, TLS-encrypted data layer, and containerized deployment on Azure.
 ---
 
 ### 🧠 Enterprise RAG Pipeline — Sub-100ms Retrieval
-[Repo](REPLACE_WITH_REPO_URL)
+[Repo](https://github.com/yaswanthsribalachandra/right_path)
 
 A retrieval-augmented generation pipeline built for low-latency enterprise search over
 unstructured documents, combining embedding-based retrieval with LLM generation.
@@ -93,7 +93,7 @@ unstructured documents, combining embedding-based retrieval with LLM generation.
 ---
 
 ### 🎨 Voice-to-Image GenAI Pipeline
-[Repo](REPLACE_WITH_REPO_URL)
+[Repo](https://github.com/dasariyaswanthsribalachandra/SENTIENTART)
 
 A multimodal pipeline that converts spoken input into generated images using
 Black Forest FLUX models — speech → text → prompt → image, end-to-end.
