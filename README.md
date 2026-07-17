@@ -1,111 +1,108 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Dasari Yaswanth Sri Balachandra</h1>
+<h1 align="center">Hi, I'm Dasari Yaswanth Sri Balachandra 👋</h1>
 
-<h3 align="center">
-🚀 Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🤖 AI/ML Explorer
-</h3>
+<h3 align="center">Full Stack & AI Engineer — building production systems with FastAPI, React & Azure</h3>
 
 <p align="center">
-Building scalable web applications using FastAPI, React, MongoDB, Docker, and Azure.
-Passionate about AI-powered applications, clean architecture, and problem solving.
+Shipping GenAI pipelines, secure auth systems, and cloud-deployed microservices.<br/>
+2026 CSE (Data Science) grad · Open to Software Engineering / Full Stack / AI-ML roles
+</p>
+
+<p align="center">
+  <a href="REPLACE_WITH_RESUME_URL"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dasari-yaswanth-sri-balachandra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://ashy-field-012acb400.7.azurestaticapps.net"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/YASWANTH_SRI_BALACHANDRA"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=orange"/></a>
+  <a href="https://www.hackerrank.com/profile/dasariyaswanths1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/dasariyaswanthsribalachandra/"><img src="https://img.shields.io/badge/GfG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Full Stack Developer focused on scalable and secure applications  
-- ☁️ Working with Azure Cloud, Docker, CI/CD & DevOps practices  
-- 🤖 Exploring AI/ML, RAG Applications, AI Agents & LLM Integrations  
-- 🔐 Interested in backend security, authentication, JWT, and cloud deployment  
-- 🧠 Solving coding problems on LeetCode & HackerRank  
-- 🌱 Currently improving system design, DevOps, and AI engineering skills  
+I build full-stack systems end-to-end — from React frontends to FastAPI backends,
+containerized with Docker and deployed on Azure with CI/CD.
 
-- 👨‍💻 My Portfolio  
-  <a href="https://ashy-field-012acb400.7.azurestaticapps.net" target="_blank">
-    Portfolio Website
-  </a>
+- 🔐 Shipped JWT-based auth with OTP verification, TLS-secured MongoDB, and CORS-hardened APIs
+- ☁️ Deploy and operate services on Azure App Services with Docker + GitHub Actions
+- 🤖 Building GenAI systems — RAG pipelines, LLM integrations, and multimodal generation
+- 📐 Currently deepening system design and distributed-systems fundamentals
 
-- 📫 Reach me at  
-  <b>dasariyaswanthsribalachandra@gmail.com</b>
+**Looking for:** Software Engineering / Full Stack / AI-ML Engineering roles (new grad, 2026)
 
-- 📄 Resume  
-  <a href="https://drive.google.com/file/d/16TOkNnmotGmMviOdLgNX2xqF7SqXhs6C/view?usp=sharing" target="_blank">
-    View Resume
-  </a>
+📫 **dasariyaswanthsribalachandra@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dasari-yaswanth-sri-balachandra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+**Frontend:** HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS
+<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" /></p>
 
-  <a href="https://www.hackerrank.com/profile/dasariyaswanths1" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
+**Backend:** Python · FastAPI · Node.js
+<p><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" /></p>
 
-  <a href="https://leetcode.com/u/YASWANTH_SRI_BALACHANDRA" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-  </a>
+**AI / GenAI:** LangChain · Hugging Face Transformers · RAG Pipelines · FAISS · ChromaDB
+<p><img src="https://skillicons.dev/icons?i=py,huggingface" /></p>
 
-  <a href="https://auth.geeksforgeeks.org/user/dasariyaswanthsribalachandra/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
+**Databases:** MongoDB · PostgreSQL · Redis
+<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" /></p>
 
----
+**Cloud & DevOps:** Azure · Docker · GitHub Actions · CI/CD
+<p><img src="https://skillicons.dev/icons?i=azure,docker,githubactions" /></p>
 
-# 🛠️ Tech Stack
-
-<p align="center"><b>🎨 Frontend Development</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
-</p>
-
-<p align="center"><b>⚙️ Backend Development</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
-</p>
-
-<p align="center"><b>🗄️ Databases</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-<p align="center"><b>☁️ Cloud & DevOps</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,githubactions" />
-</p>
-
-<p align="center"><b>🔧 Tools & Version Control</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-<p align="center"><b>💻 Programming Languages</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c" />
-</p>
+**Tools:** Git · GitHub · VS Code · Postman · SonarQube
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🔗 NexSpace — Cloud-Based URL Shortener & Notes Manager
-- Built a secure full-stack application using FastAPI, React, MongoDB, and Azure  
-- Implemented JWT authentication, OTP verification, CRUD operations & REST APIs  
-- Used Docker for containerization and Azure App Services for deployment  
-- Integrated MongoDB TLS/SSL security with PEM certificates  
-- Applied secure coding practices, CORS protection & SonarQube code analysis  
+### 🔗 NexSpace — Microservices SaaS Platform (URL Shortener + Notes) on Azure
+[Live Demo](https://ashy-field-012acb400.7.azurestaticapps.net) · [Repo](REPLACE_WITH_REPO_URL)
+
+A secure, multi-service SaaS app built to practice production-grade backend patterns:
+JWT + OTP auth, TLS-encrypted data layer, and containerized deployment on Azure.
+
+- Designed JWT-based auth with OTP verification and refresh-token rotation, hardened against CSRF/CORS attack surfaces
+- Secured MongoDB with TLS/PEM-based encryption in transit
+- Containerized with Docker and deployed via Azure App Services with CI/CD
+- Ran static analysis (SonarQube) as part of the deploy pipeline to enforce code quality gates
+
+**Stack:** FastAPI · React · MongoDB · Docker · Azure
+
+---
+
+### 🧠 Enterprise RAG Pipeline — Sub-100ms Retrieval
+[Repo](REPLACE_WITH_REPO_URL)
+
+A retrieval-augmented generation pipeline built for low-latency enterprise search over
+unstructured documents, combining embedding-based retrieval with LLM generation.
+
+- Achieved sub-100ms retrieval latency through optimized vector indexing and caching
+- Built the embedding + retrieval layer with FAISS/ChromaDB and Hugging Face Transformers
+- Orchestrated retrieval-to-generation flow with LangChain
+- Designed for horizontal scaling in a containerized deployment
+
+**Stack:** Python · LangChain · Hugging Face · FAISS/ChromaDB · FastAPI
+
+---
+
+### 🎨 Voice-to-Image GenAI Pipeline
+[Repo](REPLACE_WITH_REPO_URL)
+
+A multimodal pipeline that converts spoken input into generated images using
+Black Forest FLUX models — speech → text → prompt → image, end-to-end.
+
+- Built the speech-to-text and prompt-construction layer to translate voice input into structured image prompts
+- Integrated Black Forest FLUX models for high-quality image generation
+- Containerized the full pipeline for reproducible deployment
+
+**Stack:** Python · FLUX · Hugging Face · Docker
 
 ---
 
@@ -113,16 +110,18 @@ Passionate about AI-powered applications, clean architecture, and problem solvin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yaswanthsribalachandra&show_icons=true&theme=tokyonight" height="170"/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthsribalachandra&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yaswanthsribalachandra&theme=tokyonight"/>
-</p>
+---
+
+## 🌱 Currently Learning
+
+System design & distributed systems · Advanced AI agent architectures · Deepening DSA (Striver A2Z sheet)
 
 ---
 
 ## ⚡ Fun Fact
 
-💡 I enjoy building real-world scalable applications, solving coding challenges, and continuously learning new technologies in AI, Cloud, and DevOps.
+I enjoy turning "it works on my machine" into "it works in production" — most recently by
+debugging a JWT refresh race condition down to a single mutex.
