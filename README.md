@@ -9,7 +9,7 @@ Shipping GenAI pipelines, secure auth systems, and cloud-deployed microservices.
 </p>
 
 <p align="center">
-  <a href="REPLACE_WITH_RESUME_URL"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/16TOkNnmotGmMviOdLgNX2xqF7SqXhs6C/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dasari-yaswanth-sri-balachandra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://ashy-field-012acb400.7.azurestaticapps.net"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
